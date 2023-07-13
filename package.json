@@ -18,7 +18,7 @@
     "node-abi": "^2.18.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "^3.4.1",
+    "react-scripts": "^5.0.1",
     "socket.io": "^2.3.0",
     "socket.io-client": "^2.3.0"
   },
@@ -107,8 +107,8 @@
     "concurrently": "^5.0.0",
     "electron": "^9.0.4",
     "electron-builder": "^22.7.0",
-    "electron-rebuild": "^1.11.0",
-    "wait-on": "^3.3.0"
+    "electron-rebuild": "^3.2.9",
+    "wait-on": "^7.0.1"
   },
   "repository": {
     "type": "git",
